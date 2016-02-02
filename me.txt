@@ -1,7 +1,0 @@
-colleague: Kim
-Name Kinley
-Email k.kinley@griffith.edu.au
-Color: auto
-phone: 37359701
-study: qut
-working: griffith 
